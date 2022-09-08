@@ -1,5 +1,5 @@
-#ifndef __MONTY_H__
-#define __MONTY_H__
+#ifndef __HOOLB__
+#define __HOOLB__
 
 #include <stdio.h>
 #include <stdlib.h>
